@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690304842058",
+    "project_id": "samastha-bb7cf",
+    "storage_bucket": "samastha-bb7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690304842058:android:31ed4a19bf33acf4f9e9b3",
+        "android_client_info": {
+          "package_name": "com.samastha.elearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFGnzs7ghVzz30sUSZHkenZtrgz7iBfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
